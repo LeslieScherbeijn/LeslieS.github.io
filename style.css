@@ -1,16 +1,18 @@
 
 .topnav {
+
   background-image: url("space.jpg");
   overflow: hidden;
+
 }
 
 .topnav a {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 20px 2px;
+  padding: 20px 20px;
   text-decoration: none;
-  font-size: 30px; font-family=
+  font-size: 30px; font-family= sans-serif
 }
 
 .topnav a:hover {
@@ -19,8 +21,8 @@
 }
 
 .topnav a.active {
-  background-color: white;
-  color: black;
+  background-color: red;
+  color: white;
 }
 
 html {
@@ -43,11 +45,13 @@ margin: 0;
 }
 ul{
 list-style-type: none;
-list-float: left;
+list-float: center;
 }
 
 table {
 }
 
-td { border: 1px solid black; text-align: center;
+td { border: 3px solid black; text-align: center;
+
+
 }
