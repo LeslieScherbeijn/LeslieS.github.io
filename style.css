@@ -23,13 +23,22 @@
   color: black;
 }
 
+html {
 
+  background-image: url("backgroundsite.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+}
 body {
 
 font-size: 20px;
 text-align: center;
-background-color: lightblue;
-background-image: url("background.site,jpg");
+font-family: sans-serif;
+margin: 0; 
+
+
 
 }
 
