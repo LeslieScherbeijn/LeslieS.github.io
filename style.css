@@ -46,12 +46,24 @@ margin: 0;
 ul{
 list-style-type: none;
 list-float: center;
+
+
+}
+ul a{
+  text-decoration: none;
+  color: black;
 }
 
-table {
+table { width: 1000px;
 }
 
-td { border: 3px solid black; text-align: center;
+td {  border: 3px solid black; text-align: center;
 
 
+}
+passed{
+  background-color: red;
+}
+failed{
+background-color: green;
 }
