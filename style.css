@@ -61,9 +61,13 @@ td {  border: 3px solid black; text-align: center;
 
 
 }
-passed{
+.passed{
   background-color: red;
 }
-failed{
+.failed{
 background-color: green;
+}
+.studie{
+  float: left;
+}
 }
