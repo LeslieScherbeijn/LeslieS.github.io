@@ -71,3 +71,9 @@ background-color: green;
   float: center;
 }
 
+hr{
+  margin-left: 15%;
+  margin-right: 15%;
+  color: black;
+
+}
